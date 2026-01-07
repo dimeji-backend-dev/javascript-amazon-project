@@ -1,3 +1,5 @@
+import { cart } from '../data/cart.js' ;
+
 //looping through the product list
 let productsHTML = '';
 
